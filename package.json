@@ -1,5 +1,5 @@
 {
-  "name": "autocomplete-movie-finder",
+  "name": "search-autocomplete-demo",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2",
-    "mongodb": "^4.11.0"
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
   }
 }
